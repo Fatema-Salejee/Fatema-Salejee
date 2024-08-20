@@ -5,7 +5,9 @@
 📋 Currently learning about Python from py4e<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-Salejee&show_icons=true&theme=radical)
+![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-Salejee&show_icons=true&theme=radical)<br/>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-Salejee&layout=compact) -->
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
