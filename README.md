@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatema!
+📑 Physics grad with an intent esteem for Computer Science<br/>
+🎓 Studied Physics at Veer Narmad South Gujarat University(Sir P.T. Sarvajanik College of Scince), India<br/>
+📍  Connect me on  [LinkedIn](https://www.linkedin.com/in/fatema-salejee)<br/>
+📋 Currently learning about Python from py4e<br/>
 
-<!--
-**Fatema-Salejee/Fatema-Salejee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-Salejee)](https://github.com/Fatema-Salejee/github-readme-stats)
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br/>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
