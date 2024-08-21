@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fatema!
 📑 Physics grad with an intent esteem for Computer Science<br/>
-🎓 Studied Physics at Veer Narmad South Gujarat University(Sir P.T. Sarvajanik College of Scince), India<br/>
+🎓 Studied Physics at Veer Narmad South Gujarat University(Sir P.T. Sarvajanik College of Science), India<br/>
 📍  Connect me on  [LinkedIn](https://www.linkedin.com/in/fatema-salejee)<br/>
 📋 Currently learning about Python from py4e<br/>
 
