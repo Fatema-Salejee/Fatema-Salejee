@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fatema!
+# Hi, I'm Fatema!
 📑 Physics grad with an intent esteem for Computer Science<br/>
 🎓 Studied Physics at Veer Narmad South Gujarat University(Sir P.T. Sarvajanik College of Science), India<br/>
 📍  Connect me on  [LinkedIn](https://www.linkedin.com/in/fatema-salejee)<br/>
@@ -8,7 +8,7 @@
 <!-- ![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-Salejee&show_icons=true&theme=transparent) -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-Salejee&layout=compact) -->
 
-# 💻 Tech Stack
+# Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
