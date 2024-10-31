@@ -25,5 +25,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br/>
 
 # RoadCard
-[![roadmap.sh](https://roadmap.sh/card/wide/66dad29bc46f68d05291106d?variant=dark&roadmaps=frontend%2Cprompt-engineering%2Cgit-github)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66dad29bc46f68d05291106d?variant=dark&roadmaps=frontend%2Ccomputer-science%2Cgit-github%2Cprompt-engineering)](https://roadmap.sh)
 
